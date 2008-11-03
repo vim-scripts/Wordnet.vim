@@ -1,0 +1,20 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2422
+
+" wordnet.vim
+" By Tim Harper (http://tim.theenchanter.com/)
+"
+" OVERVIEW:
+" Easily look up the definition of the word under your cursor via wordnet
+" (http://wordnet.princeton.edu/). Definition is shown in a new region, with
+" syntax highlighting for easier reading.
+"
+" INSTRUCTIONS:
+" 1) Configure your wordnet path, if it's in a non-standard path (in your
+" vimrc)
+" let g:wordnet_path = "/usr/local/WordNet-3.0/bin/"
+"
+" 2) highlight or put your cursor over a word, and:
+" <Leader>wnd - Define the word
+" <Leader>wnb - Launch the wordnet browser for the word.
+
+
